@@ -1,11 +1,11 @@
 
 let myCar = {
-    make: "Fiat",
-    model: "Punto",
-    year: 1280,
+    make: "Nissan",
+    model: "Nuke",
+    year: 2016,
     isElectric: false
 };
-let color = "blue";
+let color = "black";
 myCar["color"] = color; 
 myCar["forSale"] = true; 
 console.log("Make:", myCar.make);
